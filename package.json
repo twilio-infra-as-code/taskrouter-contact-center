@@ -4,6 +4,6 @@
     "dependencies": {
         "@pulumi/pulumi": "^2.0.0",
         "twilio": "^3.57.0",
-        "twilio-pulumi-provider": "0.0.8"
+        "twilio-pulumi-provider": "^0.0.8"
     }
 }
